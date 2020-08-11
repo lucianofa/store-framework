@@ -6,7 +6,8 @@
       "info-card#button-right",
       "info-card#button-left",
       "flex-layout.row",
-      "flex-layout.col"
+      "flex-layout.col",
+      "info-card#rethink"
 
     ]
   },
@@ -24,6 +25,7 @@
     "textAlignment": "center"
     }
   },
+
   "info-card#button-right": {
     "props": {
       "isFullModeStyle": false,
@@ -38,6 +40,7 @@
       "blockClass": "vintage"
     }
   },
+
   "info-card#button-left": {
     "props": {
       "isFullModeStyle": false,
@@ -90,6 +93,5 @@
       "textPosition": "center"
     }
   }
-  
 
 }
