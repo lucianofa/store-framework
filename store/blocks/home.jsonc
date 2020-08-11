@@ -27,8 +27,6 @@
   "rich-text#desktop": {
     "props": {
       "text": "### Your Coffee, Your Way \n #### New Coffee Makers Collection",
-      "textPosition": "RIGHT",
-      "textAlignment": "RIGHT"
     }
   },
   
